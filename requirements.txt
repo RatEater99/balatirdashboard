@@ -1,0 +1,7 @@
+dash
+pandas
+openpyxl
+plotly
+google-genai
+python-dotenv
+gunicorn
